@@ -46,7 +46,7 @@ I'm focused on **AI, creator tools and intelligent systems** that help people mo
 
 <br />
 
-<script type="text/javascript" src="https://tiphive.xyz/api/v1/widget" data-name="tiphive-button" data-slug="mrarindam" data-color="#ef4444" data-emoji="🫶" data-font="Inter" data-text="Support Me TipHive" data-count="true"></script>
+<a href="https://tiphive.xyz/mrarindam"><img src="https://tiphive.xyz/api/v1/button?slug=mrarindam&text=Buy%20Me%20A%20Pizza&emoji=%F0%9F%8D%95&color=a855f7&font=Inter" alt="Support me on TipHive" /></a>
 
 ---
 
